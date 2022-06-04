@@ -2,6 +2,7 @@
 
 😊 Sou apaixonado por Front End.<br>
 💡 Estudando Typescript / React 
+😎 Nas horas vagas estudando UI/UX Design
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elias-coelho-287628178/">
