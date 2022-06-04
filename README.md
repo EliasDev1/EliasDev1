@@ -1,7 +1,7 @@
 ## Oi eu sou Elias Coelho, Estudante de Engenharia de Software! &#60;/&#62;
 
 😊 Sou apaixonado por Front End.<br>
-💡 Estudando Typescript / React 
+💡 Estudando Typescript / React <br>
 😎 Nas horas vagas estudando UI/UX Design
 
 <div align="center">
